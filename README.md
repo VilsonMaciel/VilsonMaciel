@@ -1,4 +1,4 @@
-# \Vilson Maciel\ 👋📚
+# Vilson Maciel 👋📚
 
 Aprendendo programação e usando esta conta para registrar minha
 evolução, meus exercícios e meus projetos pessoais.
@@ -11,17 +11,17 @@ evolução, meus exercícios e meus projetos pessoais.
 
 ## 🛠️ Ferramentas
 
--   Linguagens: \[Python, JavaScript, PHP e Java\]
--   Ferramentas: \[VS Code, Git e GitHub\]
--   Conceitos em estudo: \[Lógica, estrutura de dados, API\]
+-   Linguagens: Python, JavaScript, PHP e Java
+-   Ferramentas: VS Code, Git e GitHub
+-   Conceitos em estudo: Lógica, estrutura de dados, API
 
 ## 🧪 Projetos e exercícios
 
-  Repositório                             O que estou praticando
+  Repositório              X               O que estou praticando
   --------------------------------------- --------------------------------
-  [Projeto iniciante](https://github.com/VilsonMaciel/Loja-Musica)       \[Banco de dados, Framework Electron\]
-  [Pokemon](https://github.com/VilsonMaciel/Pokemon)   \[Consumo de API, resolução de problemas\]
-  [Movimenta_CG](https://github.com/FabricaDeSoftwareHubAcademy/Movimenta_CG) \[Git e GitHub, Trabalho em equipe, analise de requisitos\]
+  - [Loja de Músicas](https://github.com/VilsonMaciel/Loja-Musica)       \Banco de dados, Framework Electron\
+  - [Pokemons API](https://github.com/VilsonMaciel/Pokemon)   \Consumo de API, resolução de problemas\
+  - [Movimenta_CG](https://github.com/FabricaDeSoftwareHubAcademy/Movimenta_CG) \Git e GitHub, Trabalho em equipe, analise de requisitos\
 
 ## 📅 Metas próximas
 
