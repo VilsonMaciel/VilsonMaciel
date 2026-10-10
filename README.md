@@ -1,12 +1,12 @@
-# \[Vilson Maciel\] 👋📚
+# \Vilson Maciel\ 👋📚
 
 Aprendendo programação e usando esta conta para registrar minha
 evolução, meus exercícios e meus projetos pessoais.
 
 ## 🌱 Minha jornada
 
--   **Estudando agora:** \[Analise e Desenvolvimento de Sistemas\]
--   **Próximo objetivo:** \[Programar em PHP e JAVA\]
+-   **Estudando agora:** \Analise e Desenvolvimento de Sistemas\
+-   **Próximo objetivo:** \Programar em PHP e JAVA\
 -   **Como aprendo:** projetos práticos, pesquisas, experimentação e projetos pessoais para aplicação de conhecimento.
 
 ## 🛠️ Ferramentas
