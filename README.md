@@ -5,8 +5,8 @@ evolução, meus exercícios e meus projetos pessoais.
 
 ## 🌱 Minha jornada
 
--   **Estudando agora:** \Analise e Desenvolvimento de Sistemas\
--   **Próximo objetivo:** \Programar em PHP e JAVA\
+-   **Estudando agora:** Analise e Desenvolvimento de Sistemas
+-   **Próximo objetivo:** Programar em PHP e JAVA
 -   **Como aprendo:** projetos práticos, pesquisas, experimentação e projetos pessoais para aplicação de conhecimento.
 
 ## 🛠️ Ferramentas
@@ -19,9 +19,9 @@ evolução, meus exercícios e meus projetos pessoais.
 
   Repositório              X               O que estou praticando
   --------------------------------------- --------------------------------
-  - [Loja de Músicas](https://github.com/VilsonMaciel/Loja-Musica)       \Banco de dados, Framework Electron\
-  - [Pokemons API](https://github.com/VilsonMaciel/Pokemon)   \Consumo de API, resolução de problemas\
-  - [Movimenta_CG](https://github.com/FabricaDeSoftwareHubAcademy/Movimenta_CG) \Git e GitHub, Trabalho em equipe, analise de requisitos\
+  - [Loja de Músicas](https://github.com/VilsonMaciel/Loja-Musica)       Banco de dados, Framework Electron
+  - [Pokemons API](https://github.com/VilsonMaciel/Pokemon)   Consumo de API, resolução de problemas
+  - [Movimenta_CG](https://github.com/FabricaDeSoftwareHubAcademy/Movimenta_CG) Git e GitHub, Trabalho em equipe, analise de requisitos
 
 ## 📅 Metas próximas
 
