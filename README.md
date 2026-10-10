@@ -1,16 +1,37 @@
-## Hi there 👋
+# \[Vilson Maciel\] 👋📚
 
-<!--
-**VilsonMaciel/VilsonMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendendo programação e usando esta conta para registrar minha
+evolução, meus exercícios e meus projetos pessoais.
 
-Here are some ideas to get you started:
+## 🌱 Minha jornada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **Estudando agora:** \[Analise e Desenvolvimento de Sistemas\]
+-   **Próximo objetivo:** \[Programar em PHP e JAVA\]
+-   **Como aprendo:** projetos práticos, pesquisas, experimentação e projetos pessoais para aplicação de conhecimento.
+
+## 🛠️ Ferramentas
+
+-   Linguagens: \[Python, JavaScript, PHP e Java\]
+-   Ferramentas: \[VS Code, Git e GitHub\]
+-   Conceitos em estudo: \[Lógica, estrutura de dados, API\]
+
+## 🧪 Projetos e exercícios
+
+  Repositório                             O que estou praticando
+  --------------------------------------- --------------------------------
+  [Projeto iniciante](https://github.com/VilsonMaciel/Loja-Musica)       \[Banco de dados, Framework Electron\]
+  [Pokemon](https://github.com/VilsonMaciel/Pokemon)   \[Consumo de API, resolução de problemas\]
+  [Movimenta_CG](https://github.com/FabricaDeSoftwareHubAcademy/Movimenta_CG) \[Git e GitHub, Trabalho em equipe, analise de requisitos\]
+
+## 📅 Metas próximas
+
+-   [ ] Publicar um projeto de gestão pessoal
+-   [ ] Melhorar a documentação dos repositórios
+-   [ ] Contribuir para projetos open source
+-   [ ] Compartilhar aprendizados através de projetos
+
+## 💬 Contato
+
+Se você também está aprendendo, vamos trocar ideias!
+[LinkedIn](https://linkedin.com/in/vilson-maciel-a86448251) ·
+[E-mail](mailto:the.vilsonmaciel@gmail.com)
